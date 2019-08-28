@@ -1,0 +1,2 @@
+# clojure-graalvm-native
+Example project for building Clojure native binaries using [[https://github.com/oracle/graal/releases][GraalVM]]. The only novel part of this repo is in the build.sh script.
